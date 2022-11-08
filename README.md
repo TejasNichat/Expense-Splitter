@@ -15,9 +15,9 @@ MongoDB
 
 ## Getting Started
 
-1.	Install dependencies \
+1.	Install dependencies
 > npm install 
-2.	Launch the development server \
+2.	Launch the development server
 > npm run start 
 
 ## What I have Used 
