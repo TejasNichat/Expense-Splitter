@@ -2,7 +2,7 @@
 
 ## Technology Used
 
-HTML \n
+HTML \
 CSS 
 JavaScript
 React
