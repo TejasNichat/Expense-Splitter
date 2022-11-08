@@ -2,6 +2,8 @@
 
 Expense Splitter is a useful web site dedicated to helping groups of people split up bills. 
 
+![image](https://user-images.githubusercontent.com/92747065/200516349-3c9ada7f-6995-438b-bfb8-145911a9d9ef.png)
+
 ## Technology Used
 
 HTML \
