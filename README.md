@@ -1,5 +1,7 @@
 # Expense Splitter
 
+Expense Splitter is a useful web site dedicated to helping groups of people split up bills. \
+
 ## Technology Used
 
 HTML \
