@@ -2,8 +2,8 @@
 
 ## Technology Used
 
-HTML
-CSS
+HTML \n
+CSS 
 JavaScript
 React
 Bootstrap
